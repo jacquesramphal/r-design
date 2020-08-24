@@ -102,7 +102,9 @@ li {
     list-style-type: none;
 }
 /* ---- LINKS/BUTTONS ---- */
-
+button {
+  color: red;
+}
 a {
     cursor: pointer;
     color: inherit;

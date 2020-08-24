@@ -1,7 +1,8 @@
+
 const template = document.createElement('template');
 
 template.innerHTML = `
-  <style>
+  <!-- <style>
     .container {
       padding: 8px;
     }
@@ -31,10 +32,13 @@ template.innerHTML = `
     button:hover {
       background: red;
     }
+  </style> -->
+  <style>
+    @import "all.css"
   </style>
 
   <div class="container">
-    <button>Label</button>
+    <button>Label goes here</button>
   </div>
 `;
 

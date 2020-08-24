@@ -1,22 +1,21 @@
-import './components/my-button.js';
+import './components/button/component.js';
+import './components/main-header/component.js';
+import './components/footer-hero/component.js'
 
 const template = document.createElement('template');
 
 template.innerHTML = `
   <style>
-    h1 {
-      font-family: sans-serif;
-      }
   </style>
 
   <div>
-  <h1>Jacques Ramphal</h1>
-  <p>Component Library</p>
-
+  <main-header></main-header>
+  <recent-work></recent-work>
+  <footer-hero></footer-hero>
   </div>
 `;
 
-class HeaderNav extends HTMLElement {
+class MyApp extends HTMLElement {
   constructor() {
     super();
 
@@ -25,4 +24,4 @@ class HeaderNav extends HTMLElement {
   }
 }
 
-window.customElements.define('header-nav', HeaderNav);
+window.customElements.define('my-app', MyApp);
