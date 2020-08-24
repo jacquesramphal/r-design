@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2646px" height="1272px" viewBox="0 0 2646 1272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>burrow-wordmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="burrow-wordmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#333333" x="0" y="0" width="2646" height="1272"></rect>
+        <g id="Group" transform="translate(763.202841, 636.000000)" fill="#F6D28D">
+            <path d="M1155.45862,194.753472 C1142.84005,194.753472 1133.5077,199.091043 1127.4613,207.766314 C1121.4149,216.441586 1118.39174,230.374388 1118.39174,249.56514 C1118.39174,268.755892 1121.4149,282.688695 1127.4613,291.363966 C1133.5077,300.039237 1142.84005,304.376808 1155.45862,304.376808 C1168.0772,304.376808 1177.40955,300.039237 1183.45595,291.363966 C1189.50235,282.688695 1192.52551,268.755892 1192.52551,249.56514 C1192.52551,230.374388 1189.50235,216.441586 1183.45595,207.766314 C1177.40955,199.091043 1168.0772,194.753472 1155.45862,194.753472 Z" id="o"></path>
+            <g id="Group-3" transform="translate(0.500000, 0.000000)" font-family="WorkSans-Bold, Work Sans" font-size="360" font-weight="bold" letter-spacing="12.8571439">
+                <text id="BURRoW-Copy">
+                    <tspan x="0.851964544" y="335.909641">BURRoW</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

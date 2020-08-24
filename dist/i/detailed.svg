@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3214px" height="1556px" viewBox="0 0 3214 1556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>template</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.109654492" width="3213.08927" height="1555.11562"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="template">
+            <g id="Mask" transform="translate(0.000000, 0.435383)" fill="#F6D28D" fill-rule="nonzero">
+                <rect id="path-1" x="0" y="0.109654492" width="3213.08927" height="1555.11562"></rect>
+            </g>
+            <g id="Clipped" transform="translate(0.000000, 0.435383)">
+                <g id="Group-Clipped">
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="Group" mask="url(#mask-2)">
+                            <g transform="translate(-1.000000, -1.000000)">
+                                <g>
+                                    <g fill-rule="nonzero" id="template-copy">
+                                        <g transform="translate(0.033676, 0.777301)">
+                                            <g id="Group">
+                                                <g id="dod2">
+                                                    <rect id="Rectangle-path" fill="#D6D6D6" x="0.966324" y="0.332353631" width="3213.08927" height="1555.11562"></rect>
+                                                    <path d="M1606.9229,213.853846 L3243.34897,213.853846 C3270.38695,213.853846 3292.30556,235.776976 3292.30556,262.814953 L3292.30556,1408.91178 L1558.07664,1408.91178 L1557.96632,262.814954 C1557.96632,235.776977 1579.88041,213.853846 1606.91838,213.853846 C1606.91989,213.853846 1606.9214,213.853846 1606.9229,213.853846 L1606.9229,213.853846 Z" id="path-41" fill="#202427"></path>
+                                                    <path d="M1467.96632,1370.29474 C1467.96632,1366.18525 1471.30325,1362.85385 1475.42896,1362.85385 L3373.72231,1362.85385 C3377.84381,1362.85385 3381.18494,1366.18725 3381.18494,1370.29474 L3381.18494,1394.47599 C3381.18494,1411.94041 3367.0322,1426.09813 3349.55256,1426.09813 L1499.5987,1426.09813 C1482.12862,1426.09813 1467.96632,1411.94425 1467.96632,1394.47599 L1467.96632,1370.29474 Z" id="Rectangle-304" fill="#B6B6B6"></path>
+                                                    <rect id="Rectangle-2" fill="#202427" x="1632.96632" y="292.853846" width="362.022524" height="988.360049"></rect>
+                                                    <rect id="Rectangle-2-Copy" fill="#F3F3F3" x="1994.96632" y="524.853846" width="571.903762" height="756.520551"></rect>
+                                                    <rect id="Rectangle-2-Copy-3" fill="#000000" x="1994.96632" y="292.853846" width="1219.34244" height="231.832554"></rect>
+                                                    <rect id="Rectangle-2-Copy-2" fill="#7B7B7B" x="2356.96632" y="524.853846" width="857.319921" height="756.520551"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

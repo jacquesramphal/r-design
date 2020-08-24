@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>im copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#916BFF" offset="0%"></stop>
+            <stop stop-color="#3366FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1000.27486" height="688"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="im-copy">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="1000" height="1000"></rect>
+            <g id="Group" transform="translate(0.000000, 176.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g mask="url(#mask-3)" stroke-linejoin="round">
+                    <g transform="translate(-101.018083, 78.135624)">
+                        <rect id="Rectangle" stroke="#333333" stroke-width="9.8242" fill="#333333" fill-rule="nonzero" x="0.10328545" y="252.913266" width="438.47716" height="66.5123514"></rect>
+                        <path d="M724.403751,443.526119 L531.836264,566.289917 L531.836264,443.815319 L411.105313,443.027258 L411.105313,131.236642 L411.105313,-3.89671455 L1035.05382,-3.89671455 L1035.05382,177.417019 L1035.05382,443.526119 L724.403751,443.526119 Z" id="Path" stroke="#FFFFFF" stroke-width="8" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        <rect id="Rectangle" stroke="#333333" stroke-width="9.8242" fill="#333333" fill-rule="nonzero" x="211.785566" y="120.3614" width="706.733137" height="66.5123514"></rect>
+                        <rect id="Rectangle" stroke="#333333" stroke-width="9.8242" fill="#333333" fill-rule="nonzero" x="527.640429" y="252.913266" width="390.878274" height="66.5123514"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
