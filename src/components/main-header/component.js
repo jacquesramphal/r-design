@@ -7,7 +7,6 @@ template.innerHTML = `
   <style>
     @import "all.css"
   </style>
-
   <div class="container">
     <header class="">
       <h3 class="subtle showmobile">Jake Ramphal</h3>
@@ -16,6 +15,7 @@ template.innerHTML = `
     </header>
     <work-play></work-play>
   </div>
+
 `;
 
 class MainHeader extends HTMLElement {

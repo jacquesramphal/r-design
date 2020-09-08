@@ -4,6 +4,9 @@ import './components/footer-hero/component.js'
 
 const template = document.createElement('template');
 
+// Styles
+
+
 template.innerHTML = `
   <style>
   </style>
