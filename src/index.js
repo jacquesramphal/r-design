@@ -1,5 +1,6 @@
 import './components/button/component.js';
 import './components/main-header/component.js';
+import './components/work-play/component.js';
 import './components/footer-hero/component.js'
 
 const template = document.createElement('template');
@@ -13,7 +14,6 @@ template.innerHTML = `
 
   <div>
   <main-header></main-header>
-  <recent-work></recent-work>
   <footer-hero></footer-hero>
   </div>
 `;

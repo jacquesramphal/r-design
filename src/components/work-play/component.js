@@ -6,7 +6,6 @@ template.innerHTML = `
   <style>
     @import "all.css"
   </style>
-
   <div id="grid-parent" class="grid-parent">
             <span class="grid-card yellow">
               <span class="caption"><p>This is a label</p></span>
